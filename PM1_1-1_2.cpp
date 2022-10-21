@@ -6,7 +6,9 @@
 int main()
 {
     std::cout << "Hello VisualStudio Git!\n";
+    std::cout << "Hello New　changed\n";
 }
+
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
 // プログラムのデバッグ: F5 または [デバッグ] > [デバッグの開始] メニュー
