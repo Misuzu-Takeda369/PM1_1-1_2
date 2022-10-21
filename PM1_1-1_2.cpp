@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello VisualStudio Git!\n";
-    std::cout << "Hello New　changed‼\n";
+    std::cout << "Hello New　changed\n";
 }
 
 
